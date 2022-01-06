@@ -12,7 +12,7 @@ Data were collected and made available by Dr. Kristen Gorman
 and the Palmer Station, Antarctica LTER, a member of the 
 Long Term Ecological Research Network.
 
-The data can be found at: shorturl.at/apvyW
+The data can be found at: https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data?select=penguins_size.csv
 
 
 ## Libraries Used
